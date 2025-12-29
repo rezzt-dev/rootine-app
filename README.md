@@ -1,2 +1,2 @@
 # rootine-app
-aplicacion Rootine, crear y gestionar tus rutinas para organizarte mejor la vida.
+**Rootine** application for creating and managing your routines to improve your daily organisation.
